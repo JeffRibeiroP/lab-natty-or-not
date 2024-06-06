@@ -1,4 +1,4 @@
-# Humanos e Inteligencia Artificial: A Reviravolta da Humanidade 🤖
+# Humanos e Inteligência Artificial: A Reviravolta da Humanidade 🤖
 
 ## 📒 Descrição
 Um e-book de 14 paginas que te levara a entender como desenvolvedores e inteligencias artificiais podem trabalhar lado a lado e qual o potencial dessa parceria.
@@ -16,5 +16,5 @@ O e-book tem como objetivo apresentar o lado positivo da cooperação das IAs co
 
 https://www.canva.com/design/DAGHXR4DZIA/who6gw3dB5bv1Wpe6zjLjA/view?utm_content=DAGHXR4DZIA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O desafio proposto foi muito prazeroso de realizar, o estimulo de nossas criatividades junto com a cooperação das IAs podem acarretar em grandes projetos e resultados.
